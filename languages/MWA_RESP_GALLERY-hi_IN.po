@@ -1,0 +1,495 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive Photo Gallery & Lightbox Pro\n"
+"POT-Creation-Date: 2021-05-27 14:12+0530\n"
+"PO-Revision-Date: 2021-06-04 18:50+0530\n"
+"Last-Translator: \n"
+"Language-Team: Hindi\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: mwa-wp-zoom.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/inc/class-mwa-rgl-setting.php:252
+msgid "0"
+msgstr "0"
+
+#: admin/inc/class-mwa-rgl-setting.php:136
+msgid "0.1"
+msgstr "0.1"
+
+#: admin/inc/class-mwa-rgl-setting.php:137
+msgid "0.2"
+msgstr "0.2"
+
+#: admin/inc/class-mwa-rgl-setting.php:138
+msgid "0.3"
+msgstr "0.3"
+
+#: admin/inc/class-mwa-rgl-setting.php:139
+msgid "0.4"
+msgstr "0.4"
+
+#: admin/inc/class-mwa-rgl-setting.php:140
+msgid "0.5"
+msgstr "0.5"
+
+#: admin/inc/class-mwa-rgl-setting.php:141
+msgid "0.6"
+msgstr "0.6"
+
+#: admin/inc/class-mwa-rgl-setting.php:142
+msgid "0.7"
+msgstr "0.7"
+
+#: admin/inc/class-mwa-rgl-setting.php:143
+msgid "0.8"
+msgstr "0.8"
+
+#: admin/inc/class-mwa-rgl-setting.php:144
+msgid "0.9"
+msgstr "0.9"
+
+#: admin/inc/class-mwa-rgl-setting.php:205
+msgid "1 Column"
+msgstr "1 स्तंभ"
+
+#: admin/inc/class-mwa-rgl-setting.php:160
+msgid "1 PX"
+msgstr "1 PX"
+
+#: admin/inc/class-mwa-rgl-setting.php:253
+msgid "1 Second"
+msgstr "1 सेकंड"
+
+#: admin/inc/class-mwa-rgl-setting.php:206
+msgid "2 Column"
+msgstr "2 स्तंभ"
+
+#: admin/inc/class-mwa-rgl-setting.php:161
+msgid "2 PX"
+msgstr "2 PX"
+
+#: admin/inc/class-mwa-rgl-setting.php:254
+msgid "2 Seconds"
+msgstr "2 सेकंड"
+
+#: admin/inc/class-mwa-rgl-setting.php:207
+msgid "3 Column"
+msgstr "3 स्तंभ"
+
+#: admin/inc/class-mwa-rgl-setting.php:162
+msgid "3 PX"
+msgstr "3 PX"
+
+#: admin/inc/class-mwa-rgl-setting.php:255
+msgid "3 Seconds"
+msgstr "3 सेकंड"
+
+#: admin/inc/class-mwa-rgl-setting.php:208
+msgid "4 Column"
+msgstr "4 स्तंभ"
+
+#: admin/inc/class-mwa-rgl-setting.php:163
+msgid "4 PX"
+msgstr "4 PX"
+
+#: admin/inc/class-mwa-rgl-setting.php:209
+msgid "5 Column"
+msgstr "5 स्तंभ"
+
+#: admin/inc/class-mwa-rgl-setting.php:164
+msgid "5 PX"
+msgstr "5 PX"
+
+#: admin/inc/class-mwa-rgl-setting.php:210
+msgid "6 Column"
+msgstr "6 Column"
+
+#: admin/metaboxes/class-mwargl-metaboxes.php:41
+msgid "Add Gallery"
+msgstr "गैलरी जोड़ें"
+
+#: admin/class-mwa-rgl-menu.php:15 admin/cpt/class-mwa-rgl-cpt.php:23 admin/cpt/class-mwa-rgl-cpt.php:24
+msgid "Add New Gallery"
+msgstr "नई गैलरी जोड़ें"
+
+#: admin/metaboxes/class-mwargl-metaboxes.php:137
+msgid "Add New Images"
+msgstr "नई छवियां जोड़ें"
+
+#: admin/class-mwa-rgl-menu.php:19 admin/cpt/class-mwa-rgl-cpt.php:18 admin/cpt/class-mwa-rgl-cpt.php:19 admin/cpt/class-mwa-rgl-cpt.php:22
+#: admin/cpt/class-mwa-rgl-cpt.php:38
+msgid "All Galleries"
+msgstr "सभी गैलरी"
+
+#: admin/cpt/class-mwa-rgl-cpt.php:20
+msgid "All Galleries Archives"
+msgstr "सभी गैलरी अभिलेखागार"
+
+#: admin/cpt/class-mwa-rgl-cpt.php:21
+msgid "All Galleries Attributes"
+msgstr "सभी गैलरी विशेषताएँ"
+
+#: admin/inc/class-mwa-rgl-setting.php:218
+msgid "Arrow"
+msgstr "तीर"
+
+#: admin/metaboxes/class-mwargl-metaboxes.php:329
+msgid "Author"
+msgstr "लेखक"
+
+#: admin/inc/class-mwa-rgl-setting.php:246
+msgid "bottom"
+msgstr "तल"
+
+#: admin/inc/class-mwa-rgl-setting.php:217
+msgid "Bullet"
+msgstr "गोली"
+
+#: admin/inc/class-mwa-rgl-setting.php:249
+msgid "Caption Delay"
+msgstr "कैप्शन देरी"
+
+#: admin/inc/class-mwa-rgl-setting.php:242
+msgid "Caption Position"
+msgstr "कैप्शन स्थिति"
+
+#: admin/inc/class-mwa-rgl-setting.php:100
+msgid "Center"
+msgstr "केन्द्र"
+
+#: admin/inc/class-mwa-rgl-setting.php:195
+msgid "Circle"
+msgstr "वृत्त"
+
+#: admin/metaboxes/class-mwargl-metaboxes.php:326
+msgid "Date"
+msgstr "तारीख"
+
+#: admin/metaboxes/class-mwargl-metaboxes.php:143
+msgid "Delete All"
+msgstr "सब हटाएं"
+
+#: admin/metaboxes/class-mwargl-metaboxes.php:104 admin/metaboxes/class-mwargl-metaboxes.php:105 admin/metaboxes/class-mwargl-metaboxes.php:255
+#: admin/metaboxes/class-mwargl-metaboxes.php:256
+msgid "Description"
+msgstr "विवरण"
+
+#: admin/metaboxes/class-mwargl-metaboxes.php:328
+msgid "Do Shortcode"
+msgstr "छोटे संकेत"
+
+#: admin/cpt/class-mwa-rgl-cpt.php:26
+msgid "Edit Gallery"
+msgstr "गैलरी संपादित करें"
+
+#: admin/inc/class-mwa-rgl-setting.php:232
+msgid "fade"
+msgstr "मुरझाना"
+
+#: admin/cpt/class-mwa-rgl-cpt.php:35
+msgid "Filter Gallery list"
+msgstr "फ़िल्टर गैलरी सूची"
+
+#: admin/metaboxes/class-mwargl-metaboxes.php:325
+msgid "Gallery"
+msgstr "गेलरी"
+
+#: admin/inc/class-mwa-rgl-setting.php:202
+msgid "Gallery Column"
+msgstr "गैलरी स्तंभ"
+
+#: admin/cpt/class-mwa-rgl-cpt.php:33
+msgid "Gallery list"
+msgstr "गैलरी सूची"
+
+#: admin/cpt/class-mwa-rgl-cpt.php:34
+msgid "Gallery list navigation"
+msgstr "गैलरी सूची नेविगेशन"
+
+#: admin/inc/class-mwa-rgl-setting.php:214
+msgid "Gallery Navigation Type"
+msgstr "गैलरी नेविगेशन प्रकार"
+
+#: admin/inc/rgl_preview_gallery_html.php:3 admin/metaboxes/class-mwargl-metaboxes.php:48
+msgid "Gallery Preview"
+msgstr "गैलरी पूर्वावलोकन"
+
+#: admin/metaboxes/class-mwargl-metaboxes.php:43 admin/metaboxes/class-mwargl-metaboxes.php:327
+msgid "Gallery Shortcode"
+msgstr "गैलरी शोर्टकोड"
+
+#: admin/inc/class-mwa-rgl-setting.php:72
+msgid "Gallery Template"
+msgstr "गैलरी टेम्पलेट"
+
+#: admin/inc/class-mwa-rgl-setting.php:89
+msgid "Gallery Title"
+msgstr "गैलरी शीर्षक"
+
+#: admin/inc/class-mwa-rgl-setting.php:109
+msgid "Gallery Title Color"
+msgstr "गैलरी शीर्षक रंग"
+
+#: admin/inc/class-mwa-rgl-font-setting.php:40
+msgid "Google Font API Key"
+msgstr "गूगल फ़ॉन्ट एपीआई कुंजी"
+
+#: admin/inc/class-mwa-rgl-font-setting.php:64
+msgid "Google Font For Gallery Title"
+msgstr "गैलरी शीर्षक के लिए गूगल फ़ॉन्ट"
+
+#: admin/inc/class-mwa-rgl-font-setting.php:105
+msgid "Google Font For Thumbnail Title"
+msgstr "थंबनेल शीर्षक के लिए गूगल फ़ॉन्ट"
+
+#. Author URI of the plugin/theme
+msgid "https://mywebapp.in/"
+msgstr "http://mywebapp.in/"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/"
+msgstr "https://wordpress.org/plugins/"
+
+#: admin/inc/class-mwa-rgl-setting.php:102
+msgid "Left"
+msgstr "बाएं"
+
+#: admin/inc/class-mwa-rgl-setting.php:224
+msgid "Lightbox Background Color"
+msgstr "लाइटबॉक्स पृष्ठभूमि रंग"
+
+#: admin/metaboxes/class-mwargl-metaboxes.php:94 admin/metaboxes/class-mwargl-metaboxes.php:247
+msgid "Link"
+msgstr "संपर्क"
+
+#: admin/inc/class-mwa-rgl-setting.php:76
+msgid "Mobo Gallery 1"
+msgstr "मोबो गैलरी 1"
+
+#: admin/inc/class-mwa-rgl-setting.php:77
+msgid "Mobo Gallery 2"
+msgstr "मोबो गैलरी 2"
+
+#. Author of the plugin/theme
+msgid "MyWebApp"
+msgstr "MyWebApp"
+
+#: admin/cpt/class-mwa-rgl-cpt.php:25
+msgid "New Gallery"
+msgstr "नई गैलरी"
+
+#: admin/cpt/class-mwa-rgl-cpt.php:31
+msgid "Not found"
+msgstr "नहीं मिला"
+
+#: admin/cpt/class-mwa-rgl-cpt.php:32
+msgid "Not found in Trash"
+msgstr "कचरा में नहीं मिला"
+
+#: admin/class-mwa-rgl-menu.php:14
+msgid "Photo Gallery"
+msgstr "फोटो गैलरी"
+
+#: admin/inc/class-mwa-rgl-setting.php:80
+msgid "Pinto Gallery"
+msgstr "पिंटो गैलरी"
+
+#: admin/inc/class-mwa-rgl-setting.php:79
+msgid "Pixa Gallery"
+msgstr "पिक्सा गैलरी"
+
+#: admin/cpt/class-mwa-rgl-cpt.php:16
+msgctxt "Post Type General Name"
+msgid "All Galleries"
+msgstr "सभी गैलरी"
+
+#: admin/cpt/class-mwa-rgl-cpt.php:17
+msgctxt "Post Type Singular Name"
+msgid "All Galleries"
+msgstr "सभी गैलरी"
+
+#: admin/metaboxes/class-mwargl-metaboxes.php:361
+msgid "Preview"
+msgstr "पूर्वावलोकन"
+
+#: admin/inc/rgl_preview_gallery_html.php:31
+msgid "Preview Mode"
+msgstr "पूर्वावलोकन मोड"
+
+#: admin/inc/class-mwa-rgl-setting.php:196
+msgid "Rectangle"
+msgstr "आयत"
+
+#. Plugin Name of the plugin/theme
+msgid "Responsive Photo Gallery & Lightbox Pro"
+msgstr "Responsive Photo Gallery & Lightbox Pro"
+
+#. Description of the plugin/theme
+msgid ""
+"Responsive Photo Gallery WordPress Plugin by MyWebApp is the best way to create responsive media galleries with different layout on your "
+"website."
+msgstr "MyWebApp द्वारा उत्तरदायी फोटो गैलरी वर्डप्रेस प्लगइन आपकी वेबसाइट पर विभिन्न लेआउट के साथ उत्तरदायी मीडिया गैलरी बनाने का सबसे अच्छा तरीका है।"
+
+#: admin/inc/class-mwa-rgl-setting.php:101
+msgid "Right"
+msgstr "सही"
+
+#: admin/inc/class-mwa-rgl-setting.php:237
+msgid "rotate"
+msgstr "घुमाएँ"
+
+#: admin/class-mwa-rgl-admin.php:50 admin/metaboxes/class-mwargl-metaboxes.php:19
+msgid "Same Size 400 X 400"
+msgstr "समान आकार 400 X 400"
+
+#: admin/class-mwa-rgl-admin.php:49 admin/metaboxes/class-mwargl-metaboxes.php:18
+msgid "Same Size 500 X 500"
+msgstr "समान आकार 500 X 500"
+
+#: admin/inc/class-mwa-rgl-setting.php:78
+msgid "Samp Gallery"
+msgstr "सैम्प गैलरी"
+
+#: admin/cpt/class-mwa-rgl-cpt.php:30
+msgid "Search Gallery"
+msgstr "गैलरी खोजें"
+
+#: admin/inc/class-mwa-rgl-font-setting.php:68 admin/inc/class-mwa-rgl-font-setting.php:109
+msgid "Select Google Font"
+msgstr "गूगल फ़ॉन्ट चुनें"
+
+#: admin/class-mwa-rgl-admin.php:47 admin/metaboxes/class-mwargl-metaboxes.php:16
+msgid "Size 400 X AUTO"
+msgstr "आकार 400 X ऑटो"
+
+#: admin/class-mwa-rgl-admin.php:48 admin/metaboxes/class-mwargl-metaboxes.php:17
+msgid "Size 500 X AUTO"
+msgstr "आकार 500 X ऑटो"
+
+#: admin/inc/class-mwa-rgl-setting.php:235
+msgid "slide Horizzontally"
+msgstr "क्षैतिज रूप से स्लाइड करें"
+
+#: admin/inc/class-mwa-rgl-setting.php:236
+msgid "slide inverse"
+msgstr "स्लाइड उलटा"
+
+#: admin/inc/class-mwa-rgl-setting.php:234
+msgid "slide vertically"
+msgstr "लंबवत स्लाइड करें"
+
+#: admin/inc/class-mwa-rgl-setting.php:81
+msgid "Snipper Gallery"
+msgstr "स्निपर गैलरी"
+
+#: admin/inc/rgl_preview_gallery_html.php:33
+msgid ""
+"This is just the basic preview and it may look different when used in frontend as per your theme styles. If Lightbox may also not work "
+"properly in the preview mode then try to paste the shortcode in page or post."
+msgstr ""
+"यह केवल मूल पूर्वावलोकन है और आपकी थीम शैलियों के अनुसार फ़्रंटएंड में उपयोग किए जाने पर यह भिन्न दिखाई दे सकता है। यदि लाइटबॉक्स पूर्वावलोकन मोड में भी ठीक से काम "
+"नहीं करता है, तो पेज या पोस्ट में शोर्ट कोड पेस्ट करने का प्रयास करें।"
+
+#: admin/inc/class-mwa-rgl-setting.php:151
+msgid "Thumbnail Border Color"
+msgstr "थंबनेल बॉर्डर कलर"
+
+#: admin/inc/class-mwa-rgl-setting.php:157
+msgid "Thumbnail Border Size"
+msgstr "थंबनेल बॉर्डर साइज"
+
+#: admin/inc/class-mwa-rgl-setting.php:186
+msgid "Thumbnail Bullets Color"
+msgstr "थंबनेल बुलेट रंग"
+
+#: admin/inc/class-mwa-rgl-setting.php:192
+msgid "Thumbnail Bullets Type"
+msgstr "थंबनेल बुलेट प्रकार"
+
+#: admin/inc/class-mwa-rgl-setting.php:171
+msgid "Thumbnail Hover Color 1"
+msgstr "थंबनेल होवर रंग 1"
+
+#: admin/inc/class-mwa-rgl-setting.php:177
+msgid "Thumbnail Hover Color 2"
+msgstr "थंबनेल होवर रंग 2"
+
+#: admin/inc/class-mwa-rgl-setting.php:116
+msgid "Thumbnail Label Background Color"
+msgstr "थंबनेल लेबल पृष्ठभूमि रंग"
+
+#: admin/inc/class-mwa-rgl-setting.php:132
+msgid "Thumbnail Label Opacity"
+msgstr "थंबनेल लेबल अस्पष्टता"
+
+#: admin/inc/class-mwa-rgl-setting.php:125
+msgid "Thumbnail Label Text Color"
+msgstr "थंबनेल लेबल टेक्स्ट का रंग"
+
+#: admin/metaboxes/class-mwargl-metaboxes.php:92 admin/metaboxes/class-mwargl-metaboxes.php:245
+msgid "Title"
+msgstr "शीर्षक"
+
+#: admin/inc/class-mwa-rgl-setting.php:96
+msgid "Title Alignment"
+msgstr "शीर्षक संरेखण"
+
+#: admin/inc/class-mwa-rgl-setting.php:245
+msgid "top"
+msgstr "ऊपर"
+
+#: admin/inc/class-mwa-rgl-setting.php:229
+msgid "Transition Effect"
+msgstr "संक्रमण प्रभाव"
+
+#: admin/cpt/class-mwa-rgl-cpt.php:27
+msgid "Update Gallery"
+msgstr "गैलरी अपडेट करें"
+
+#: admin/metaboxes/class-mwargl-metaboxes.php:351
+msgid "Use below shortcode in any Page/Post to view gallery in your site"
+msgstr "अपनी साइट में गैलरी देखने के लिए किसी भी पेज/पोस्ट में नीचे दिए गए शोर्टकोड का उपयोग करें"
+
+#: admin/cpt/class-mwa-rgl-cpt.php:28 admin/cpt/class-mwa-rgl-cpt.php:29
+msgid "View Gallery"
+msgstr "चित्रशाला देखो"
+
+#: admin/inc/class-mwa-rgl-setting.php:233
+msgid "zoom"
+msgstr "ज़ूम"
+
+#: admin/metaboxes/class-mwargl-metaboxes.php:59
+msgctxt "छवियां जोड़ें"
+msgid "Add Images"
+msgstr "छवियां जोड़ें"
+
+#: admin/metaboxes/class-mwargl-metaboxes.php:60
+msgctxt "गैलरी सेटिंग"
+msgid "Gallery Setting"
+msgstr "गैलरी सेटिंग"
+
+#: admin/metaboxes/class-mwargl-metaboxes.php:61
+msgctxt "फ़ॉन्ट्स सेटिंग"
+msgid "Fonts Setting"
+msgstr "फ़ॉन्ट्स सेटिंग"
+
+#: admin/metaboxes/class-mwargl-metaboxes.php:65
+msgctxt "कस्टम सीएसएस"
+msgid "Custom CSS"
+msgstr "कस्टम सीएसएस"
+
+#: admin/metaboxes/class-mwargl-metaboxes.php:63
+msgctxt "गैलरी डमी"
+msgid "Gallery Dummy"
+msgstr "गैलरी डमी"
